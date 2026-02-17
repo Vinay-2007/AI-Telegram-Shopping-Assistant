@@ -178,7 +178,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "bearer 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"
+              "value": "bearer {API KEY}"
             }
           ]
         },
