@@ -40,5 +40,4 @@ Bot replies instantly.
 
 ## 🧑‍💻 Author
 Vinay P  
-BTech CSE (AI & Data Science Focus)
 
